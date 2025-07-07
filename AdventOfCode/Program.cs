@@ -8,4 +8,4 @@ using AoC = AdventOfCode;
 //Day05.SolveBothParts(useExample: true, useBrian: false);
 //Day06.SolveBothParts(useExample: false, useBrian: false);
 
-Universal.Solve<AoC.Y2023.Day05>(useExample: false, useBrian: false, printIntros: false);
+Universal.Solve<AoC.Y2024.Day12>(useExample: false, useBrian: false, printIntros: false);
